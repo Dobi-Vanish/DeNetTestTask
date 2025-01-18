@@ -23,7 +23,7 @@ down:
 
 ## build_reward: builds the reward binary as a linux executable
 build_reward:
-	@echo Building broker binary...
+	@echo Building reward binary...
 	chdir ..\reward-service && set GOOS=linux&& set GOARCH=amd64&& set CGO_ENABLED=0 && go build -o ${REWARD_BINARY} ./cmd/api
 	@echo Done!
 
