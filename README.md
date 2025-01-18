@@ -36,3 +36,8 @@
   ![referrer_success](https://github.com/user-attachments/assets/6aac0514-1577-4c64-bdd1-81d19eef179a)  
   ![referrer_success_show](https://github.com/user-attachments/assets/20002384-45b3-491b-8508-133bde1e6cbe)  
 
+Также пример некоторых запросов, когда access token не был получен:  
+
+![изображение](https://github.com/user-attachments/assets/8a8c33da-a845-45a1-8ca0-4948dd5f2d83)  
+![изображение](https://github.com/user-attachments/assets/a9ff9e7d-a4e0-4c2c-a09f-17f94dd84aa3)  
+
