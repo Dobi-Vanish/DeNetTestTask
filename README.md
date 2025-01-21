@@ -1,4 +1,4 @@
-Выполненное тестовое задание.  
+Для создания базы данных через миграции ввести команду migrate `-path db/migrations -database "postgres://postgres:password@localhost:5432/users?sslmode=disable" up` находясь в папке `reward-service/cmd/api`  
 Для запуска в Docker'e необходимо ввести команду в консоль `make up_build` внутри папки project  
 Наличие требования для access token'a:  
 ![access_through_access_token](https://github.com/user-attachments/assets/cfeac453-6c2b-4a62-9306-900c4250b0d8)  
